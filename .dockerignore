@@ -1,0 +1,11 @@
+**/.git
+**/.idea
+**/target/*
+!target/flinters-exam-*.jar
+**/data
+**/output
+.mvn
+src
+HELP.md
+README.md
+*.csv
